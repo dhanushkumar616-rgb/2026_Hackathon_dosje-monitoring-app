@@ -18,6 +18,14 @@ dist/
 tmp/
 *.log
 *.env.local
+*.jar
+*.aar
+*.so
+*.apk
+*.aab
+*.zip
+*.tar.gz
+*.tgz
 
 # OS
 .DS_Store
